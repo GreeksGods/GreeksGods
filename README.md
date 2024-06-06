@@ -5,7 +5,7 @@ My name is Darryn Dunn I am a rising Junior at the University of the Pacific Stu
 - 📫 How to reach me: d_dunn5@u.pacific.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Movie Fanatic 
-  
+- Itch.io:
 <!--
 **GreeksGods/GreeksGods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
