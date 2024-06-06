@@ -7,7 +7,7 @@ My name is Darryn Dunn I am a rising Junior at the University of the Pacific Stu
 - ⚡ Fun fact: Movie Fanatic 
 - Itch.io: https://greeksgods.itch.io/
 - Linkedin: https://www.linkedin.com/in/darryn-dunn-5938b928b/
-<!--
+
 **GreeksGods/GreeksGods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
